@@ -1,4 +1,5 @@
-<img src="https://fullstackbd.com/assets/images/logo-with-name.png" />
+<img width="200" src="https://fullstackbd.com/assets/images/logo-with-name.png" />
+
 # Problem solving with python course
 
 ## Basic Python
