@@ -13,7 +13,7 @@
 - [File I/O](./docs/files.md)
   - [Text](./docs/text.md)
   - [JSON](./docs/json.md)
-  - [CSV](./docs/csv.md)] 
+  - [CSV](./docs/csv.md)
 - [External modules](./docs/external_modules.md)
 - [Python standard library](./docs/python_standard_library.md)
 
