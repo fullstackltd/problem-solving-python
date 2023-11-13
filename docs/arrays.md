@@ -34,6 +34,10 @@ You refer to an array element by referring to the index number.
 cars = ["Ford", "Volvo", "BMW"]
 
 x = cars[0]
+
+print(x)
+
+'Ford'
 ```
 
 ## Modify the Value of the First Array Item
