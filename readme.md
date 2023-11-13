@@ -8,6 +8,7 @@
 - [Installation](./docs/installation.md)
 - [Data types](./docs/data_types.md)
 - [Functions](./docs/functions.md)
+- [Arrays](./docs/arrays.md)
 - [Control flow](./docs/control_flow.md)
 - [Modules](./docs/modules.md)
 - [Errors and exceptions](./docs/errors_and_exceptions.md)
